@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1046347707292",
+    "project_id": "booksonsale-77cf7",
+    "storage_bucket": "booksonsale-77cf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046347707292:android:aea094e0fbe3ebf091ce59",
+        "android_client_info": {
+          "package_name": "com.example.booksonsale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046347707292-qh6t844ri5q6lnp0crnsb7bbp63fb2jq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.booksonsale",
+            "certificate_hash": "70cb396d188b90392d89bbfc3055d2365bc80150"
+          }
+        },
+        {
+          "client_id": "1046347707292-v5mgp5177la5ur764u10go3miph6mfp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChc1zfz6n0J2a0j5ruziQacrxg07cKF-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046347707292-v5mgp5177la5ur764u10go3miph6mfp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
